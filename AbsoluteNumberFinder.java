@@ -16,5 +16,6 @@ public class AbsoluteNumberFinder {
         } else {
             System.out.print("Enter Valid Integer");
         }
+        sc.close();
     }
 }
